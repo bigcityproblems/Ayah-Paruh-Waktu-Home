@@ -223,7 +223,7 @@ export default function App() {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
             <Button variant="hero" className="w-full sm:w-auto">
-              Preorder Sekarang
+              Wishlist Buku
             </Button>
             <Button 
               variant="heroOutline" 
@@ -335,7 +335,7 @@ export default function App() {
                 <span className="text-xs uppercase tracking-widest text-ink/40">Tanggal Terbit</span>
                 <p className="text-2xl font-serif">Rilis 22 Juni 2026.</p>
               </div>
-              <Button variant="primary">Preorder Sekarang</Button>
+              <Button variant="primary">Wishlist Buku</Button>
             </div>
           </motion.div>
         </div>
